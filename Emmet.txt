@@ -1,0 +1,10 @@
+<!-- Emmet
+etiket isimlerini direkt verebiliyorsun
++ kardeş öğe
+> içinde öğe
+ ^ yukarı çık ve öğe oluştur
+ * çarp -> p*3
+ lorem
+ . -> class 
+ # id oluşturmak
+ -->
