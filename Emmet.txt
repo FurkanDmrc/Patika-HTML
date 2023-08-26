@@ -8,3 +8,24 @@ etiket isimlerini direkt verebiliyorsun
  . -> class 
  # id oluşturmak
  -->
+
+-----------------------------------------------
+/*li:first-child {
+    color:green;
+}
+
+li:last-child {
+    color:aqua;
+}*/
+
+/*li:nth-child(2) {
+    color:red;
+}*/
+
+/*li:nth-child(odd) {
+    color:red;
+}*/
+
+/*li:nth-child(even) {
+    color:red;
+}*/

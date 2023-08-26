@@ -1,0 +1,80 @@
+.anacerceve {
+    width: 800px;
+    height: 800px;
+   background-color: white;
+    margin-left: 350px;
+    border-color: black;
+    border-style:solid;
+    border-width: 0.5px;
+   
+}
+
+.solcerceve {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 0px;
+}
+
+.resim{
+    padding-top: 10px;
+    padding-left:15px;
+}
+
+.sagcerceve { 
+height: 50px;
+width: 800px;
+background-color: rgb(255, 255, 255);
+}
+
+.ulliste {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    overflow: auto;
+    float: right;
+    display: flex;
+    padding-right: 15px;
+    
+
+}
+
+.liste {
+    font-size:13px;
+    margin-right: 0px;
+    padding:10px;
+    
+    font-family:'Roboto', sans-serif;
+    color:hsl(0, 0%, 33%);
+    
+}
+
+.altcerceve {
+    background-color: #eceaea;
+    width: 800px;
+    height: 100px;
+}
+
+
+.altliste{
+list-style-type: none;
+display: flex;
+overflow: auto;
+padding-left: 55px;
+
+
+
+
+}
+
+.liste2 {
+
+padding: 14px;
+font-size:13px;
+text-align: center;
+font-family:'Andale Mono', monospace;
+text-decoration: none;
+padding-top: 40px;
+color: hsl(240, 100%, 23%);
+
+}

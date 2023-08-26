@@ -1,0 +1,137 @@
+.resim {
+  
+  width:350px;
+  margin-left: 550px;
+}
+
+.arama {
+    background-color: #d4d4d4;
+    height: 80px;
+    width: 800px;
+    margin-left: 350px;
+    
+}
+
+.txtbox {
+    background-color: white;
+    border:solid black;
+    border-width: 1px;
+    width: 300px;
+    height: 20px;
+    margin-left: 250px;
+   margin-top:25px;
+   position: absolute;
+}
+
+.search {
+    background-color: #ecebeb;
+    width: 100px;
+    text-align: center;
+    height: 20px;
+    padding-top: 3px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 270px;
+    border: solid black;
+    border-width: 1px;
+}
+
+.yazi {
+    position: absolute;
+    padding-left: 290px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.lucky {
+    background-color: #ecebeb;
+    width: 150px;
+    text-align: center;
+    height: 20px;
+    padding-top: 3px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 375px;
+    border: solid black;
+    border-width: 1px;
+
+}
+
+.sol {
+    background-color: aqua;
+    width: 250px;
+    height: 100px;
+    margin-left:350px;
+    position: absolute;
+    margin-top: 2px;
+   
+}
+
+.solliste {
+    text-align: center;
+   list-style-type: none;
+   padding-right: 40px;
+}
+
+
+.orta {
+    position: absolute;
+    background-color: hsl(180, 67%, 49%);
+    width: 300px;
+    height: 100px;
+    margin-left: 603px;
+    margin-top: 2px;
+}
+.ortaliste {
+    text-align: center;
+    list-style-type: none;
+    padding-right: 40px;
+}
+
+.sag {
+    position: absolute;
+    background-color: hsl(180, 67%, 49%);
+    width: 246px;
+    height: 100px;
+    margin-left: 905px;
+    margin-top: 2px;
+}
+
+.getgoogle {
+    text-align: center;
+}
+
+.update {
+    text-align: center;
+}
+
+.email {
+    width: 200px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border: solid black;
+    border-width: 1px;
+    margin-left: 13px;
+    padding-left: 10px;
+}
+
+.abone {
+    margin-left: 30px;
+    background-color: #ecebeb;
+    width: 90px;
+    text-align: center;
+    margin-top: 3px;
+    border: solid black;
+    border-width: 1px;
+}
+
+.archive {
+    margin-left: 1032px;
+    position: absolute;
+    margin-top: 65px;
+    
+ 
+   
+    
+    
+}
